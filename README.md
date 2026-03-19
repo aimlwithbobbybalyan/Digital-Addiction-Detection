@@ -29,6 +29,9 @@ Digital-Addiction-Detection/
 ├── Digital_Addiction_Detection_Model.ipynb  ← Complete ML pipeline
 ├── Smartphone_Usage_Productivity_Dataset_50000.csv  ← Raw dataset
 ├── preprocessed_dataset.csv  ← Engineered dataset with labels
+├── shap_bar_chart.png  ← SHAP Feature Importance Chart
+├── shap_summary_plot.png  ← SHAP Summary Plot
+├── confusion_matrix.png  ← Model Confusion Matrix
 └── README.md
 ```
 
