@@ -56,4 +56,4 @@ B.Tech CSE (AI & ML) — CT Group of Institutions(CTIEMT)
 
 GitHub: [@aimlwithbobbybalyan](https://github.com/aimlwithbobbybalyan)
 
-Email: your@gmail.com
+Email: bobby.2301385@stu.ctgroup.in
