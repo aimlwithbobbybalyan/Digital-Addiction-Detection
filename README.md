@@ -26,6 +26,7 @@ Python | Scikit-learn | XGBoost | SHAP | Pandas | NumPy | Matplotlib | Seaborn |
 ##  Project Structure
 ```
 Digital-Addiction-Detection/
+├──Research_paper_DADM.pdf
 ├── Digital_Addiction_Detection_Model.ipynb  ← Complete ML pipeline
 ├── Smartphone_Usage_Productivity_Dataset_50000.csv  ← Raw dataset
 ├── preprocessed_dataset.csv  ← Engineered dataset with labels
